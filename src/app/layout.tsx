@@ -74,7 +74,7 @@ export default function RootLayout({
               {children}
               <Footer />
             </div>
-            <Branding />
+{/*             <Branding /> */}
           </ErrorBoundaryWrapper>
           <AnalyticsTracker siteKey="deliciously-simple" />
         </DOMInspector>
